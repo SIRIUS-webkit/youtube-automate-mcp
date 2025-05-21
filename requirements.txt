@@ -1,0 +1,8 @@
+emoji
+google-api-python-client
+huggingface-hub
+mcp
+mcp[cli]
+python-dotenv
+torch
+transformers
